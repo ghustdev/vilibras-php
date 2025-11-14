@@ -27,7 +27,7 @@
                     </p>
                     <img id="icon2" class="icon" src="../../../public/images/yuri.jpeg" alt="">
                     <p>A História da marginalização das pessoas surdas é ridicularizada por muitos e admirada por poucos. As raízes históricas desta marginalização remontam ao isolamento social ao qual os surdos eram submetidos e aos tratamentos totalmente desumanos que recebiam simplesmente por serem surdos. Além disso, a falta de conscientização sobre o problema na comunidade resultou em projetos visando a inclusão dos surdos na sociedade fossem pensados de forma tardia, se é que foram pensados.</p>
-                    <img id="icon3" class="icon" src="../../../public/images/cardoso.jpeg" alt="">
+                    <img id="icon3" class="icon" src="../../../public/images/gustavo.jpg" alt="">
                     <p>A princípio, medidas envolvendo a inclusão dos surdos na atualidade precisam ser levadas em consideração. Ao levarmos a problemática a um contexto atual é perceptível que soluções tecnológicas não possuem a acessibilidade digital adequada, principalmente em áreas técnicas da tecnologia, pois termos são criados e aprimorados ano após ano. Com base nessa problemática, o projeto de incluir surdos em áreas técnicas está sendo desenvolvido.</p>
                     <img id="icon4" class="icon" src="../../../public/images/adriam.jpeg" alt="">
                     <p>A relevância de criar mecanismos que influenciam na inclusão dessa parte da população visa combater os preconceitos enraizados pela sociedade sobre os surdos. Estimular a participação e auxiliar no processo de formação de indivíduos com deficiência auditiva é um passo extremamente gradual e que precisa ser atualizado e mantido.</p>
