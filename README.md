@@ -34,7 +34,3 @@ Porjeto Escolar - VILIBRAS: O Vocabulário de Informátoca em Libras (VILIBRAS) 
     
     * Projeto de Bando de Dados:
       https://docs.google.com/document/d/1XNYTdyTCxJmNhqkdKLwGuvGti0wZmerdANJD-6N_lcg/edit
-
-  
-      
-      
